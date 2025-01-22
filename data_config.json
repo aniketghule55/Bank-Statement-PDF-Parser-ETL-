@@ -1,0 +1,10 @@
+{
+    "start_row": 1,
+    "columns": {
+        "unique_id": "unique_id",
+        "date": "date",
+        "description": "description",
+        "amount": "amount",
+        "transaction_type": "transaction_type"
+    }
+}
